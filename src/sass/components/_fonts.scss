@@ -1,0 +1,7 @@
+@import "font-face";
+
+@include font-face("Oswald", "../fonts/OswaldRegular/Oswald-Regular");
+@include font-face("Oswald", "../fonts/OswaldExtraLight/Oswald-ExtraLight", 200);
+@include font-face("OpenSans", "../fonts/OpenSansRegular/OpenSans-Regular");
+@include font-face("OpenSans", "../fonts/OpenSansBold/OpenSans-Bold", bold);
+@include font-face("FontAwesome", "../fonts/fontawesome-webfont");

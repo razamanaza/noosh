@@ -1,0 +1,5 @@
+module.exports = {
+  host: '<ftp_hostname>',
+  user: '<ftp_username>',
+  password: '<ftp_password>'
+}
